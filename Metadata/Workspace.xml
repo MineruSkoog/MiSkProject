@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{6d03fecf-37f5-4c58-be36-6bb7d2edf7b7}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Documents/GitHub/MineruSkoog/Assets/Plugins/FMOD/Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{f0402274-2ee6-4e83-9638-b353093b968d}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{a25e4d5b-c307-4997-8eff-99870dc5deb0}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{051551be-b651-49af-b973-e363a5475b89}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{c0f63073-91bb-4d9d-9b90-7218c5a6b8b5}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{15bc28aa-3df0-48bd-b646-981d5d9e3006}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{f7a77dfb-9db2-433c-847d-99933d0d3342}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{0d440075-0df0-4982-8cb0-7333e500b074}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{3df8d527-12bc-426c-8470-2606619f7d21}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{7cb35984-55f9-4922-b65e-b20262d2a789}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{5161e994-ab84-459b-b4fa-3571697049dc}</destination>
+		</relationship>
+	</object>
+</objects>
